@@ -1,0 +1,52 @@
+body{
+ background-image: url("./images/pexels-photo-235985.jpg");
+ background-size: cover;
+ text-align: center;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-weight: bold;
+ color: rgb(85, 37, 10);
+}
+h1{
+ 
+ font-size: 70px;   
+color:rgb(3, 24, 3);
+
+}
+#massage-el{
+
+font-size: 30px;
+font-style: italic;
+
+}
+#sum-el{
+
+    font-size: 30px;
+    
+    
+    }
+    #card-el{
+        font-size: 30px;
+        
+    }
+   
+button{
+    padding: 10px 26px;
+    background-color:rgb(3, 24, 3); ;
+    color: rgb(202, 169, 123); 
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 3px;
+    margin: 5px;
+    
+}
+/* #new-card{
+    padding: 10px 26px;
+    background-color:rgb(3, 24, 3); ;
+    color: rgb(202, 169, 123); 
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 3px;
+    
+} */
